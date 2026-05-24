@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Passionate about Big Data and Programming<br>📚 Currently improving my Python skills and working on data-related projects<br>🎯 Main goal: Becoming a Data Analyst<br>⚽ Sports enthusiast and strategy games lover</p>
+<p align="left">🚀 Passionate about Big Data and Programming<br>📚 Currently improving my Python skills and working on data-related projects<br>🎯 Main goal: Becoming a Data Analyst<br>⚽ Sports enthusiast</p>
 
 ###
 
